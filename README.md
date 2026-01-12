@@ -2,6 +2,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=ML+%26+AI+Focused+Student;Frontend+Developer;Strong+in+Data+Structures+%26+Algorithms&center=true&width=500&height=45">
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aanshigahlot1&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/aanshigahlot1?label=Followers&style=social" alt="GitHub followers" />
+</p>
+
 
 ## 👋 Hi, I’m Aanshi Gahlot
 
