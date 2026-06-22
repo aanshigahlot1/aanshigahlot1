@@ -1,231 +1,291 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Aanshi%20Gahlot&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20ML%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20AI%2FML%20Enthusiast&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Aanshi%20Gahlot&fontSize=70&fontColor=fff&fontAlignY=42&fontStyle=bold&desc=Software%20Engineer%20%E2%80%83%7C%E2%80%83%20ML%20Engineer%20%E2%80%83%7C%E2%80%83%20Full-Stack%20Dev%20%E2%80%83%7C%E2%80%83%20AI%2FML%20Enthusiast&descAlignY=65&descSize=17&animation=twinkling" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%F0%9F%92%BB;ML+%26+AI+Enthusiast+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%8C%90;RAG+%26+LLM+Builder+%F0%9F%94%97;DSA+%26+Competitive+Programmer+%F0%9F%8F%86&center=true&width=520&height=55&font=Fira+Code&color=7c3aed&pause=1000&size=20&weight=bold" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/%F0%9F%92%BC%20Software%20Engineer-6d28d9?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/%F0%9F%A4%96%20ML%20Engineer-7c3aed?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/%F0%9F%A7%A0%20AI%2FML%20Enthusiast-8b5cf6?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/%F0%9F%8C%90%20Full--Stack%20Dev-a78bfa?style=for-the-badge&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=aanshigahlot1&label=Profile+Views&color=7c3aed&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/aanshigahlot1?label=Followers&style=for-the-badge&color=6d28d9&labelColor=1e1b4b" />
 
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;ML+%26+AI+Enthusiast;Full-Stack+Developer;RAG+%26+LLM+Builder;DSA+%26+Competitive+Programmer&center=true&width=460&height=50&font=JetBrains+Mono&color=a78bfa&pause=1200&size=18" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineer-0f172a?style=flat-square&logo=terminal&logoColor=a78bfa&labelColor=0f172a&color=1e1b4b" />
-  <img src="https://img.shields.io/badge/ML%20Engineer-0f172a?style=flat-square&logo=brain&logoColor=818cf8&labelColor=0f172a&color=1e1b4b" />
-  <img src="https://img.shields.io/badge/AI%2FML%20Enthusiast-0f172a?style=flat-square&logo=openai&logoColor=c4b5fd&labelColor=0f172a&color=1e1b4b" />
-  <img src="https://img.shields.io/badge/Full--Stack%20Dev-0f172a?style=flat-square&logo=react&logoColor=a78bfa&labelColor=0f172a&color=1e1b4b" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aanshigahlot1&label=Profile+Views&color=7c3aed&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/aanshigahlot1?label=Followers&style=flat-square&color=7c3aed&labelColor=1e1b4b" />
-</p>
-
 ---
 
-## `$ whoami`
+<div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  Aanshi Gahlot                                                  │
-│  B.Tech CSE · MMMUT Gorakhpur · CGPA: 8.52 · Batch 2027       │
-│                                                                  │
-│  → Building end-to-end ML systems from data to deployment       │
-│  → RAG pipelines, LLMs, LangChain, FAISS, OpenAI & Claude APIs │
-│  → Full-Stack: React.js · FastAPI · Node.js · Firebase          │
-│  → Competitive Programmer — 500+ LC problems solved             │
-│  → 2× SDE Intern · Anthropic Certified (Claude API + MCP)      │
-└─────────────────────────────────────────────────────────────────┘
+## 🧑‍💻 About Me
+
+</div>
+
+```yaml
+Name        : Aanshi Gahlot
+Education   : B.Tech CSE · MMMUT Gorakhpur · CGPA 8.52 · Batch 2027
+Role        : Pre-Final Year Student | 2× SDE Intern
+Focus       : ML Systems · RAG Pipelines · Full-Stack · Competitive Programming
+Certified   : Anthropic — Claude API · MCP · Claude Code
 ```
 
----
-
-## `$ ls ./tech-stack`
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=a78bfa)
-![C++](https://img.shields.io/badge/C++-0f172a?style=for-the-badge&logo=cplusplus&logoColor=818cf8)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=fbbf24)
-![Java](https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=f87171)
-![SQL](https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=mysql&logoColor=60a5fa)
-
-**ML / AI**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0f172a?style=for-the-badge&logo=scikitlearn&logoColor=f97316)
-![XGBoost](https://img.shields.io/badge/XGBoost-0f172a?style=for-the-badge&logo=data:image/png;base64,&logoColor=a78bfa)
-![LangChain](https://img.shields.io/badge/LangChain-0f172a?style=for-the-badge&logoColor=34d399)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-0f172a?style=for-the-badge&logo=openai&logoColor=a78bfa)
-![Pandas](https://img.shields.io/badge/Pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=60a5fa)
-![NumPy](https://img.shields.io/badge/NumPy-0f172a?style=for-the-badge&logo=numpy&logoColor=818cf8)
-![FAISS](https://img.shields.io/badge/FAISS-0f172a?style=for-the-badge&logoColor=c4b5fd)
-
-**Backend & Frontend**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-0f172a?style=for-the-badge&logo=fastapi&logoColor=34d399)
-![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=4ade80)
-![Express](https://img.shields.io/badge/Express-0f172a?style=for-the-badge&logo=express&logoColor=94a3b8)
-![React](https://img.shields.io/badge/React.js-0f172a?style=for-the-badge&logo=react&logoColor=38bdf8)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=22d3ee)
-![Streamlit](https://img.shields.io/badge/Streamlit-0f172a?style=for-the-badge&logo=streamlit&logoColor=f87171)
-
-**Databases & Cloud**
-
-![Firebase](https://img.shields.io/badge/Firebase-0f172a?style=for-the-badge&logo=firebase&logoColor=fbbf24)
-![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=60a5fa)
-![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=4ade80)
-![AWS](https://img.shields.io/badge/AWS-0f172a?style=for-the-badge&logo=amazonaws&logoColor=f97316)
-![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=38bdf8)
-![Vercel](https://img.shields.io/badge/Vercel-0f172a?style=for-the-badge&logo=vercel&logoColor=ffffff)
-![Railway](https://img.shields.io/badge/Railway-0f172a?style=for-the-badge&logo=railway&logoColor=a78bfa)
+> 🤖 Building **end-to-end ML applications** — from data preprocessing to cloud deployment  
+> 🧠 Working with **RAG pipelines, LLMs, LangChain, FAISS, OpenAI & Claude APIs**  
+> 💻 Full-Stack: **React.js · FastAPI · Node.js · Firebase · TailwindCSS**  
+> 🏆 **LeetCode 1701** · Global Rank **#727** (Weekly Contest 470) · **500+ problems solved**
 
 ---
 
-## `$ cat ./achievements`
+<div align="center">
 
-| | Achievement | Date |
-|---|---|---|
-| 🏆 | **LeetCode 1701** · Global Rank #727 · Weekly Contest 470 · 500+ problems | Ongoing |
-| 📜 | **Claude Code in Action** — Anthropic Certified | May 2026 |
-| 📜 | **Intro to Model Context Protocol (MCP)** — Anthropic Certified | May 2026 |
-| 📜 | **Building with the Claude API** — Anthropic Certified | May 2026 |
+## 🛠️ Tech Stack
+
+</div>
+
+<div align="center">
+
+### ⚡ Languages
+
+[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://cppreference.com)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://javascript.info)
+[![Java](https://skillicons.dev/icons?i=java)](https://java.com)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
+
+### 🤖 ML / AI
+
+![Python](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0052CC?style=for-the-badge&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### 🌐 Frontend & Backend
+
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
+[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
+[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+[![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
+[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com)
+[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com)
+
+### ☁️ Cloud, Databases & DevOps
+
+[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
+[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 Stats at a Glance
+
+</div>
+
+<div align="center">
+
+| 🏆 LeetCode Rating | 📝 Problems Solved | 📈 Best R² Score | 🌍 Global Rank |
+|:---:|:---:|:---:|:---:|
+| **1701** | **500+** | **99.4%** | **#727** |
+| *Top 5% Globally* | *LC · CF · CC* | *XGBoost · StreetBase* | *Weekly Contest 470* |
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏅 Achievements & Certifications
+
+</div>
+
+| 🥇 | Achievement / Certification | 📅 |
+|:---:|---|:---:|
+| 🏆 | **LeetCode Rating 1701** · Global Rank #727 · 500+ Problems Solved | Ongoing |
+| 📜 | **Claude Code in Action** — Anthropic | May 2026 |
+| 📜 | **Introduction to Model Context Protocol (MCP)** — Anthropic | May 2026 |
+| 📜 | **Building with the Claude API** — Anthropic | May 2026 |
 | 📜 | **AI, Machine Learning & NLP** — Infosys Springboard | 2025 |
 | 📜 | **Machine Learning Foundations** — AWS Educate | 2024 |
 
 ---
 
-## `$ cat ./experience`
+<div align="center">
 
-**🔵 Infosys Springboard** · *Software Engineering Intern, AI/ML Track* · `Oct 2025 – Dec 2025`
-> Engineered a modular end-to-end ML pipeline over 50K+ records with pytest & CI/CD · Deployed real-time Streamlit inference app (sub-second latency) · Improved accuracy by **12%** via XGBoost — achieving **99.4% R²**
+## 💼 Experience
 
-**🟢 HapScale** · *Software Engineer Intern* · `Jan 2025 – Apr 2025`
-> Architected secure RESTful API integrations with middleware validation · Increased backend throughput **+25%** · Full-stack optimizations (React.js + Node.js + Firebase) driving **+30% user engagement**
+</div>
 
----
+<table>
+<tr>
+<td width="50%">
 
-## `$ ls ./projects --starred`
+### 🔵 Infosys Springboard
+**Software Engineering Intern — AI/ML Track**
+`Oct 2025 – Dec 2025`
 
-<details>
-<summary><b>🏠 StreetBase</b> — AI-Powered Real Estate Platform</summary>
-<br>
+- Modular **end-to-end ML pipeline** over 50K+ records with pytest & CI/CD
+- Deployed **real-time Streamlit app** with sub-second latency
+- **+12% accuracy** improvement via XGBoost — achieving **99.4% R²**
 
-> `Python` `XGBoost` `LangChain` `OpenAI API` `FAISS` `Streamlit` `Firebase` `SQLite`
+</td>
+<td width="50%">
 
-- 7-stage preprocessing pipeline over **80K+ property listings** across 15 Indian cities
-- **99.4% R²** via XGBoost with async data-fetch pipelines
-- **RAG chatbot** (LangChain + GPT-3.5 + FAISS) with real-time query logging
-- NLP-based real estate news intelligence + Firebase auth
+### 🟢 HapScale
+**Software Engineer Intern**
+`Jan 2025 – Apr 2025`
 
-[🔗 Live App](https://streetbase-7cklxuyaukme8j2uwxjbi8.streamlit.app/) · [🐙 GitHub](https://github.com/aanshigahlot1/StreetBase)
+- Secure **RESTful API** integrations with middleware-level validation
+- Backend throughput increased by **+25%**
+- Full-stack (React.js + Node.js + Firebase) → **+30% user engagement**
 
-</details>
-
-<details>
-<summary><b>🎬 CineVibe</b> — AI Movie Recommendation Engine</summary>
-<br>
-
-> `Python` `FastAPI` `React.js` `scikit-learn` `TF-IDF` `Railway` `TMDB API`
-
-- FastAPI backend with **6 async endpoints**, CORS middleware, pickle-based ML deserialization
-- Deployed on Railway with **low-latency inference over 40K+ movies**
-- React.js SPA with custom `useFetch` / `useDebounce` hooks + TMDB API
-- **TF-IDF + Cosine Similarity** recommendation engine via scikit-learn
-
-[🔗 Live App](https://cine-vibe-xi.vercel.app) · [🐙 GitHub](https://github.com/aanshigahlot1/CineVibe)
-
-</details>
-
-<details>
-<summary><b>🔍 RETRIVO</b> — Lost & Found Web Platform</summary>
-<br>
-
-> `React.js` `TailwindCSS` `Firebase` `EmailJS` `Cloudinary`
-
-- Full-stack platform for **20+ beta users** — Firebase Auth + real-time NoSQL sync
-- Automated recovery via **EmailJS triggers**, cutting manual follow-up by ~40%
-- Cloudinary image storage + component-driven React frontend
-
-[🔗 Live App](https://aanshigahlot1.github.io/RETRIVO_/) · [🐙 GitHub](https://github.com/aanshigahlot1/RETRIVO_)
-
-</details>
-
-<details>
-<summary><b>🌐 Portfolio</b> — Personal Web Application</summary>
-<br>
-
-> `React.js` `TailwindCSS` `Vercel`
-
-- Responsive personal portfolio with modular React components, deployed on Vercel
-
-[🔗 Live](https://aanshi-portfolio-black.vercel.app/) · [🐙 GitHub](https://github.com/aanshigahlot1/aanshi-portfolio)
-
-</details>
-
----
-
-## `$ ./proficiency --graph`
-
-```
-Python      ████████████████████░░  92%     LangChain   ████████████████░░░░░░  80%
-ML / AI     █████████████████░░░░░  88%     SQL / DBs   ███████████████░░░░░░░  78%
-React.js    █████████████████░░░░░  85%     Docker      ██████████████░░░░░░░░  72%
-FastAPI     ████████████████░░░░░░  82%     Firebase    ████████████████░░░░░░  80%
-C++ / DSA   █████████████████░░░░░  86%     AWS         █████████████░░░░░░░░░  68%
-```
-
----
-
-## `$ git log --graph --contributions`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aanshigahlot1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=818cf8&text_color=c9d1d9&ring_color=7c3aed" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanshigahlot1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aanshigahlot1&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=818cf8&currStreakLabel=c4b5fd&sideNums=a78bfa&dates=6b7280" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aanshigahlot1&bg_color=0d1117&color=a78bfa&line=818cf8&point=c4b5fd&hide_border=true&area=true&area_color=7c3aed" />
-</p>
-
----
-
-## `$ find me --online`
-
-<p align="center">
-  <a href="https://aanshi-portfolio-black.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=a78bfa" />
-  </a>
-  <a href="https://www.linkedin.com/in/aanshigahlot027/">
-    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=60a5fa" />
-  </a>
-  <a href="https://github.com/aanshigahlot1">
-    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" />
-  </a>
-  <a href="mailto:aanshigahlot026@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=f87171" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/aanshigahlot01/">
-    <img src="https://img.shields.io/badge/LeetCode-0f172a?style=for-the-badge&logo=leetcode&logoColor=fbbf24" />
-  </a>
-  <a href="https://codeforces.com/profile/aanshigahlot">
-    <img src="https://img.shields.io/badge/Codeforces-0f172a?style=for-the-badge&logo=codeforces&logoColor=38bdf8" />
-  </a>
-  <a href="https://www.codechef.com/users/aanshi_026">
-    <img src="https://img.shields.io/badge/CodeChef-0f172a?style=for-the-badge&logo=codechef&logoColor=a78bfa" />
-  </a>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer&fontColor=a78bfa&fontSize=14" width="100%"/>
-  
-  *always learning, building, and improving — one commit at a time.*
+
+## 🚀 Featured Projects
+
+</div>
+
+<details>
+<summary><h3>🏠 StreetBase — AI-Powered Real Estate Platform</h3></summary>
+
+<br/>
+
+> **Stack:** `Python` `XGBoost` `LangChain` `OpenAI API` `FAISS` `Streamlit` `Firebase` `SQLite`
+
+| Feature | Detail |
+|---|---|
+| 📦 Data Pipeline | 7-stage preprocessing over **80K+ listings** across 15 Indian cities |
+| 🎯 Model Accuracy | **99.4% R²** via XGBoost with async data-fetch pipelines |
+| 🤖 AI Chatbot | RAG system — LangChain + GPT-3.5 + FAISS with real-time query logging |
+| 📰 Intelligence | NLP-based real estate news feed + Firebase Auth |
+
+[![Live App](https://img.shields.io/badge/🔗%20Live%20App-22c55e?style=for-the-badge)](https://streetbase-7cklxuyaukme8j2uwxjbi8.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/🐙%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/aanshigahlot1/StreetBase)
+
+</details>
+
+<details>
+<summary><h3>🎬 CineVibe — AI Movie Recommendation Engine</h3></summary>
+
+<br/>
+
+> **Stack:** `Python` `FastAPI` `React.js` `scikit-learn` `TF-IDF` `Railway` `TMDB API`
+
+| Feature | Detail |
+|---|---|
+| ⚡ Backend | FastAPI with **6 async endpoints**, CORS middleware, pickle-based ML |
+| 🎬 Scale | **Low-latency inference over 40K+ movies** deployed on Railway |
+| 💻 Frontend | React.js SPA with custom `useFetch` / `useDebounce` hooks + TMDB API |
+| 🧠 Algorithm | **TF-IDF + Cosine Similarity** via scikit-learn — fully REST-decoupled |
+
+[![Live App](https://img.shields.io/badge/🔗%20Live%20App-22c55e?style=for-the-badge)](https://cine-vibe-xi.vercel.app)
+[![GitHub](https://img.shields.io/badge/🐙%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/aanshigahlot1/CineVibe)
+
+</details>
+
+<details>
+<summary><h3>🔍 RETRIVO — Lost & Found Web Platform</h3></summary>
+
+<br/>
+
+> **Stack:** `React.js` `TailwindCSS` `Firebase` `EmailJS` `Cloudinary`
+
+| Feature | Detail |
+|---|---|
+| 👥 Users | **20+ beta users** — Firebase Auth + real-time NoSQL sync |
+| 📧 Automation | EmailJS triggers cutting manual follow-up by **~40%** |
+| 🖼️ Storage | Cloudinary image pipeline + component-driven React UI |
+
+[![Live App](https://img.shields.io/badge/🔗%20Live%20App-22c55e?style=for-the-badge)](https://aanshigahlot1.github.io/RETRIVO_/)
+[![GitHub](https://img.shields.io/badge/🐙%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/aanshigahlot1/RETRIVO_)
+
+</details>
+
+<details>
+<summary><h3>🌐 Portfolio — Personal Web Application</h3></summary>
+
+<br/>
+
+> **Stack:** `React.js` `TailwindCSS` `Vercel`
+
+Responsive personal portfolio with modular React components, deployed on Vercel.
+
+[![Live](https://img.shields.io/badge/🔗%20Live-22c55e?style=for-the-badge)](https://aanshi-portfolio-black.vercel.app/)
+[![GitHub](https://img.shields.io/badge/🐙%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/aanshigahlot1/aanshi-portfolio)
+
+</details>
+
+---
+
+<div align="center">
+
+## 📈 GitHub Stats
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aanshigahlot1&show_icons=true&theme=tokyonight&hide_border=false&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&icon_color=c4b5fd&text_color=e2e8f0&ring_color=7c3aed&include_all_commits=true&count_private=true" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanshigahlot1&layout=compact&theme=tokyonight&hide_border=false&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0" height="180"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aanshigahlot1&theme=tokyonight&hide_border=false&border=7c3aed&background=0d1117&ring=a78bfa&fire=c4b5fd&currStreakLabel=a78bfa&sideNums=c4b5fd&dates=94a3b8&stroke=7c3aed" width="70%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aanshigahlot1&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=a78bfa&hide_border=false&border_color=7c3aed&area=true&area_color=4c1d95&radius=8" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Find Me Online
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://aanshi-portfolio-black.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aanshigahlot027/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aanshigahlot1)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aanshigahlot026@gmail.com)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aanshigahlot01/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aanshigahlot)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aanshi_026)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&fontSize=16&fontColor=c4b5fd&text=always%20learning%2C%20building%2C%20and%20improving%20%E2%80%94%20one%20commit%20at%20a%20time.&fontAlignY=65&animation=twinkling" width="100%"/>
+
 </div>
