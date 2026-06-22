@@ -35,17 +35,7 @@ Focus       : ML Systems · RAG Pipelines · Full-Stack · Competitive Programmi
 Certified   : Anthropic — Claude API · MCP · Claude Code
 ```
 
-I'm a **pre-final year CSE student** who builds things that actually work in production — not just notebooks.
-I specialize in designing **end-to-end ML systems**, engineering **RAG pipelines with LLMs**, and shipping **full-stack web apps** from zero to deployed.
-With **2 SDE internships**, **500+ DSA problems**, and **Anthropic certifications** under my belt,
-I bring both the engineering rigour and the ML depth to solve real problems at scale.
 
-> 🤖 ML systems · LangChain · FAISS · OpenAI & Claude APIs · XGBoost · scikit-learn
-> 💻 React.js · FastAPI · Node.js · Firebase · TailwindCSS · Streamlit
-> 🏆 LeetCode **1701** · Global Rank **#727** · Weekly Contest 470 · **500+ solved**
-> ☁️ Deployed on AWS · Vercel · Railway · Docker · GitHub Actions
-
----
 
 <div align="center">
 
