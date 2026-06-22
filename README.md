@@ -120,11 +120,11 @@ Certified   : Anthropic — Claude API · MCP · Claude Code
 <div align="center">
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║                         WORK EXPERIENCE TIMELINE                            ║
+║                         WORK EXPERIENCE TIMELINE                             ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 </div>
-
+<div align="center">
 <table>
 <tr>
 <td width="8%" align="center">
@@ -329,7 +329,7 @@ Responsive personal portfolio with modular React components and TailwindCSS, dep
 [![GitHub](https://img.shields.io/badge/🐙%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aanshigahlot1/aanshi-portfolio)
 
 </details>
-
+</div>
 ---
 
 <div align="center">
