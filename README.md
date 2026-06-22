@@ -117,12 +117,13 @@ Certified   : Anthropic — Claude API · MCP · Claude Code
 ## 💼 Experience
 
 </div>
-
+<div align="center">
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                         WORK EXPERIENCE TIMELINE                            ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
+</div>
 
 <table>
 <tr>
