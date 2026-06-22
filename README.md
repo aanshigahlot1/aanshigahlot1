@@ -4,16 +4,15 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%F0%9F%92%BB;ML+%26+AI+Enthusiast+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%8C%90;RAG+%26+LLM+Builder+%F0%9F%94%97;DSA+%26+Competitive+Programmer+%F0%9F%8F%86&center=true&width=520&height=55&font=Fira+Code&color=7c3aed&pause=1000&size=20&weight=bold" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://aanshi-portfolio-black.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aanshigahlot027/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aanshigahlot1)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aanshigahlot026@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aanshigahlot01/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aanshigahlot)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aanshi_026)
 
 <br/>
-
-<img src="https://img.shields.io/badge/%F0%9F%92%BC%20Software%20Engineer-6d28d9?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/%F0%9F%A4%96%20ML%20Engineer-7c3aed?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/%F0%9F%A7%A0%20AI%2FML%20Enthusiast-8b5cf6?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/%F0%9F%8C%90%20Full--Stack%20Dev-a78bfa?style=for-the-badge&logoColor=white" />
-
-<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=aanshigahlot1&label=Profile+Views&color=7c3aed&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/aanshigahlot1?label=Followers&style=for-the-badge&color=6d28d9&labelColor=1e1b4b" />
@@ -36,10 +35,15 @@ Focus       : ML Systems · RAG Pipelines · Full-Stack · Competitive Programmi
 Certified   : Anthropic — Claude API · MCP · Claude Code
 ```
 
-> 🤖 Building **end-to-end ML applications** — from data preprocessing to cloud deployment  
-> 🧠 Working with **RAG pipelines, LLMs, LangChain, FAISS, OpenAI & Claude APIs**  
-> 💻 Full-Stack: **React.js · FastAPI · Node.js · Firebase · TailwindCSS**  
-> 🏆 **LeetCode 1701** · Global Rank **#727** (Weekly Contest 470) · **500+ problems solved**
+I'm a **pre-final year CSE student** who builds things that actually work in production — not just notebooks.
+I specialize in designing **end-to-end ML systems**, engineering **RAG pipelines with LLMs**, and shipping **full-stack web apps** from zero to deployed.
+With **2 SDE internships**, **500+ DSA problems**, and **Anthropic certifications** under my belt,
+I bring both the engineering rigour and the ML depth to solve real problems at scale.
+
+> 🤖 ML systems · LangChain · FAISS · OpenAI & Claude APIs · XGBoost · scikit-learn  
+> 💻 React.js · FastAPI · Node.js · Firebase · TailwindCSS · Streamlit  
+> 🏆 LeetCode **1701** · Global Rank **#727** · Weekly Contest 470 · **500+ solved**  
+> ☁️ Deployed on AWS · Vercel · Railway · Docker · GitHub Actions  
 
 ---
 
@@ -61,7 +65,7 @@ Certified   : Anthropic — Claude API · MCP · Claude Code
 
 ### 🤖 ML / AI
 
-![Python](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -96,10 +100,6 @@ Certified   : Anthropic — Claude API · MCP · Claude Code
 
 ## 📊 Stats at a Glance
 
-</div>
-
-<div align="center">
-
 | 🏆 LeetCode Rating | 📝 Problems Solved | 📈 Best R² Score | 🌍 Global Rank |
 |:---:|:---:|:---:|:---:|
 | **1701** | **500+** | **99.4%** | **#727** |
@@ -113,16 +113,16 @@ Certified   : Anthropic — Claude API · MCP · Claude Code
 
 ## 🏅 Achievements & Certifications
 
-</div>
-
 | 🥇 | Achievement / Certification | 📅 |
-|:---:|---|:---:|
+|:---:|:---:|:---:|
 | 🏆 | **LeetCode Rating 1701** · Global Rank #727 · 500+ Problems Solved | Ongoing |
 | 📜 | **Claude Code in Action** — Anthropic | May 2026 |
 | 📜 | **Introduction to Model Context Protocol (MCP)** — Anthropic | May 2026 |
 | 📜 | **Building with the Claude API** — Anthropic | May 2026 |
 | 📜 | **AI, Machine Learning & NLP** — Infosys Springboard | 2025 |
 | 📜 | **Machine Learning Foundations** — AWS Educate | 2024 |
+
+</div>
 
 ---
 
@@ -142,7 +142,7 @@ Certified   : Anthropic — Claude API · MCP · Claude Code
 
 - Modular **end-to-end ML pipeline** over 50K+ records with pytest & CI/CD
 - Deployed **real-time Streamlit app** with sub-second latency
-- **+12% accuracy** improvement via XGBoost — achieving **99.4% R²**
+- **+12% accuracy** via XGBoost — achieving **99.4% R²**
 
 </td>
 <td width="50%">
@@ -153,7 +153,7 @@ Certified   : Anthropic — Claude API · MCP · Claude Code
 
 - Secure **RESTful API** integrations with middleware-level validation
 - Backend throughput increased by **+25%**
-- Full-stack (React.js + Node.js + Firebase) → **+30% user engagement**
+- React.js + Node.js + Firebase → **+30% user engagement**
 
 </td>
 </tr>
@@ -243,42 +243,13 @@ Responsive personal portfolio with modular React components, deployed on Vercel.
 
 ## 📈 GitHub Stats
 
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=aanshigahlot1&show_icons=true&theme=tokyonight&hide_border=false&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&icon_color=c4b5fd&text_color=e2e8f0&ring_color=7c3aed&include_all_commits=true&count_private=true" height="180"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanshigahlot1&layout=compact&theme=tokyonight&hide_border=false&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0" height="180"/>
 
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aanshigahlot1&theme=tokyonight&hide_border=false&border=7c3aed&background=0d1117&ring=a78bfa&fire=c4b5fd&currStreakLabel=a78bfa&sideNums=c4b5fd&dates=94a3b8&stroke=7c3aed" width="70%"/>
 
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aanshigahlot1&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=a78bfa&hide_border=false&border_color=7c3aed&area=true&area_color=4c1d95&radius=8" width="95%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Find Me Online
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://aanshi-portfolio-black.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aanshigahlot027/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aanshigahlot1)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aanshigahlot026@gmail.com)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aanshigahlot01/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aanshigahlot)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aanshi_026)
 
 </div>
 
