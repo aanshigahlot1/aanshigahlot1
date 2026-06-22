@@ -40,20 +40,16 @@ I specialize in designing **end-to-end ML systems**, engineering **RAG pipelines
 With **2 SDE internships**, **500+ DSA problems**, and **Anthropic certifications** under my belt,
 I bring both the engineering rigour and the ML depth to solve real problems at scale.
 
-> 🤖 ML systems · LangChain · FAISS · OpenAI & Claude APIs · XGBoost · scikit-learn  
-> 💻 React.js · FastAPI · Node.js · Firebase · TailwindCSS · Streamlit  
-> 🏆 LeetCode **1701** · Global Rank **#727** · Weekly Contest 470 · **500+ solved**  
-> ☁️ Deployed on AWS · Vercel · Railway · Docker · GitHub Actions  
+> 🤖 ML systems · LangChain · FAISS · OpenAI & Claude APIs · XGBoost · scikit-learn
+> 💻 React.js · FastAPI · Node.js · Firebase · TailwindCSS · Streamlit
+> 🏆 LeetCode **1701** · Global Rank **#727** · Weekly Contest 470 · **500+ solved**
+> ☁️ Deployed on AWS · Vercel · Railway · Docker · GitHub Actions
 
 ---
 
 <div align="center">
 
 ## 🛠️ Tech Stack
-
-</div>
-
-<div align="center">
 
 ### ⚡ Languages
 
@@ -132,28 +128,74 @@ I bring both the engineering rigour and the ML depth to solve real problems at s
 
 </div>
 
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                         WORK EXPERIENCE TIMELINE                            ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
 <table>
 <tr>
-<td width="50%">
+<td width="8%" align="center">
 
-### 🔵 Infosys Springboard
-**Software Engineering Intern — AI/ML Track**
-`Oct 2025 – Dec 2025`
-
-- Modular **end-to-end ML pipeline** over 50K+ records with pytest & CI/CD
-- Deployed **real-time Streamlit app** with sub-second latency
-- **+12% accuracy** via XGBoost — achieving **99.4% R²**
+```
+🔵
+ │
+ │
+ │
+ │
+```
 
 </td>
-<td width="50%">
+<td width="92%">
 
-### 🟢 HapScale
-**Software Engineer Intern**
-`Jan 2025 – Apr 2025`
+**`Oct 2025 – Dec 2025`** &nbsp;|&nbsp; 🏢 **Infosys Springboard** &nbsp;|&nbsp; `Software Engineering Intern — AI/ML Track`
 
-- Secure **RESTful API** integrations with middleware-level validation
-- Backend throughput increased by **+25%**
-- React.js + Node.js + Firebase → **+30% user engagement**
+```python
+achievements = {
+    "pipeline"   : "Modular end-to-end ML system · 50K+ records · pytest · CI/CD",
+    "deployment" : "Real-time Streamlit inference app · sub-second latency",
+    "accuracy"   : "+12% improvement via XGBoost benchmarking → 99.4% R²",
+    "impact"     : "Production-grade system shipped end-to-end"
+}
+```
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="8%" align="center">
+
+```
+🟢
+ │
+ │
+ │
+ │
+```
+
+</td>
+<td width="92%">
+
+**`Jan 2025 – Apr 2025`** &nbsp;|&nbsp; 🏢 **HapScale** &nbsp;|&nbsp; `Software Engineer Intern`
+
+```javascript
+const impact = {
+  backend  : "Secure RESTful APIs · middleware-level validation · +25% throughput",
+  frontend : "React.js + Node.js + Firebase full-stack optimizations",
+  result   : "+30% increase in user engagement across platform"
+}
+```
+
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 </td>
 </tr>
@@ -168,72 +210,132 @@ I bring both the engineering rigour and the ML depth to solve real problems at s
 </div>
 
 <details>
-<summary><h3>🏠 StreetBase — AI-Powered Real Estate Platform</h3></summary>
+<summary>
+  <b>🏠 StreetBase</b> &nbsp;—&nbsp; <i>AI-Powered Real Estate Platform</i> &nbsp;
+  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/99.4%25%20R²-22c55e?style=flat-square&logoColor=white"/>
+</summary>
 
 <br/>
 
-> **Stack:** `Python` `XGBoost` `LangChain` `OpenAI API` `FAISS` `Streamlit` `Firebase` `SQLite`
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  STREETBASE  ·  AI Real Estate Intelligence Platform                        │
+│  80,000+ listings · 15 Indian cities · RAG chatbot · 99.4% R²              │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
 
-| Feature | Detail |
-|---|---|
-| 📦 Data Pipeline | 7-stage preprocessing over **80K+ listings** across 15 Indian cities |
-| 🎯 Model Accuracy | **99.4% R²** via XGBoost with async data-fetch pipelines |
-| 🤖 AI Chatbot | RAG system — LangChain + GPT-3.5 + FAISS with real-time query logging |
-| 📰 Intelligence | NLP-based real estate news feed + Firebase Auth |
+**Stack:** `Python` `XGBoost` `LangChain` `OpenAI API` `FAISS` `Streamlit` `Firebase` `SQLite`
 
-[![Live App](https://img.shields.io/badge/🔗%20Live%20App-22c55e?style=for-the-badge)](https://streetbase-7cklxuyaukme8j2uwxjbi8.streamlit.app/)
-[![GitHub](https://img.shields.io/badge/🐙%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/aanshigahlot1/StreetBase)
+| Module | What it does |
+|:---|:---|
+| 🔧 **Data Pipeline** | 7-stage preprocessing engine over **80K+ property listings** across 15 cities |
+| 🧠 **ML Model** | XGBoost regressor with async data-fetch — **99.4% R²** accuracy |
+| 🤖 **RAG Chatbot** | LangChain + GPT-3.5 + FAISS vector store · real-time query logging |
+| 📰 **News Intelligence** | NLP-based real estate news feed + Firebase Auth integration |
+
+```python
+# Core architecture
+pipeline: DataIngestion → Preprocessing → FeatureEngineering → XGBoost → FAISS → RAG
+accuracy: R² = 0.994  |  latency: sub-second  |  scale: 80K+ records
+```
+
+[![Live App](https://img.shields.io/badge/🔗%20Live%20App-22c55e?style=for-the-badge&logoColor=white)](https://streetbase-7cklxuyaukme8j2uwxjbi8.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/🐙%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aanshigahlot1/StreetBase)
 
 </details>
 
+---
+
 <details>
-<summary><h3>🎬 CineVibe — AI Movie Recommendation Engine</h3></summary>
+<summary>
+  <b>🎬 CineVibe</b> &nbsp;—&nbsp; <i>AI Movie Recommendation Engine</i> &nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TF--IDF-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/40K+%20Movies-a78bfa?style=flat-square&logoColor=white"/>
+</summary>
 
 <br/>
 
-> **Stack:** `Python` `FastAPI` `React.js` `scikit-learn` `TF-IDF` `Railway` `TMDB API`
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  CINEVIBE  ·  Intelligent Movie Discovery Engine                            │
+│  40,000+ movies · TF-IDF cosine similarity · FastAPI + React SPA           │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
 
-| Feature | Detail |
-|---|---|
-| ⚡ Backend | FastAPI with **6 async endpoints**, CORS middleware, pickle-based ML |
-| 🎬 Scale | **Low-latency inference over 40K+ movies** deployed on Railway |
-| 💻 Frontend | React.js SPA with custom `useFetch` / `useDebounce` hooks + TMDB API |
-| 🧠 Algorithm | **TF-IDF + Cosine Similarity** via scikit-learn — fully REST-decoupled |
+**Stack:** `Python` `FastAPI` `React.js` `scikit-learn` `TF-IDF` `Railway` `TMDB API`
 
-[![Live App](https://img.shields.io/badge/🔗%20Live%20App-22c55e?style=for-the-badge)](https://cine-vibe-xi.vercel.app)
-[![GitHub](https://img.shields.io/badge/🐙%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/aanshigahlot1/CineVibe)
+| Module | What it does |
+|:---|:---|
+| ⚡ **Backend** | FastAPI with **6 async endpoints**, CORS middleware, pickle-based ML deserialization |
+| 🎬 **Inference** | Low-latency recommendations over **40K+ movies**, deployed on Railway |
+| 💻 **Frontend** | React.js SPA · custom `useFetch` & `useDebounce` hooks · TMDB API integration |
+| 🧠 **Algorithm** | **TF-IDF + Cosine Similarity** via scikit-learn — fully REST-decoupled |
+
+```python
+# Recommendation pipeline
+query → TF-IDF vectorization → cosine_similarity(query, corpus[40K]) → top-N results
+transport: REST API  |  frontend: React SPA  |  deploy: Railway + Vercel
+```
+
+[![Live App](https://img.shields.io/badge/🔗%20Live%20App-22c55e?style=for-the-badge&logoColor=white)](https://cine-vibe-xi.vercel.app)
+[![GitHub](https://img.shields.io/badge/🐙%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aanshigahlot1/CineVibe)
 
 </details>
 
+---
+
 <details>
-<summary><h3>🔍 RETRIVO — Lost & Found Web Platform</h3></summary>
+<summary>
+  <b>🔍 RETRIVO</b> &nbsp;—&nbsp; <i>Lost &amp; Found Web Platform</i> &nbsp;
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/EmailJS-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/20%2B%20Users-22c55e?style=flat-square&logoColor=white"/>
+</summary>
 
 <br/>
 
-> **Stack:** `React.js` `TailwindCSS` `Firebase` `EmailJS` `Cloudinary`
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  RETRIVO  ·  Real-Time Lost & Found Platform                                │
+│  20+ beta users · Firebase sync · EmailJS automation · Cloudinary CDN      │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
 
-| Feature | Detail |
-|---|---|
-| 👥 Users | **20+ beta users** — Firebase Auth + real-time NoSQL sync |
-| 📧 Automation | EmailJS triggers cutting manual follow-up by **~40%** |
-| 🖼️ Storage | Cloudinary image pipeline + component-driven React UI |
+**Stack:** `React.js` `TailwindCSS` `Firebase` `EmailJS` `Cloudinary`
 
-[![Live App](https://img.shields.io/badge/🔗%20Live%20App-22c55e?style=for-the-badge)](https://aanshigahlot1.github.io/RETRIVO_/)
-[![GitHub](https://img.shields.io/badge/🐙%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/aanshigahlot1/RETRIVO_)
+| Module | What it does |
+|:---|:---|
+| 👥 **Auth & Sync** | Firebase Auth + real-time NoSQL sync for **20+ beta users** |
+| 📧 **Automation** | EmailJS triggers on item match — cut manual follow-up by **~40%** |
+| 🖼️ **Media** | Cloudinary CDN image pipeline + component-driven React UI |
+
+[![Live App](https://img.shields.io/badge/🔗%20Live%20App-22c55e?style=for-the-badge&logoColor=white)](https://aanshigahlot1.github.io/RETRIVO_/)
+[![GitHub](https://img.shields.io/badge/🐙%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aanshigahlot1/RETRIVO_)
 
 </details>
 
+---
+
 <details>
-<summary><h3>🌐 Portfolio — Personal Web Application</h3></summary>
+<summary>
+  <b>🌐 Portfolio</b> &nbsp;—&nbsp; <i>Personal Web Application</i> &nbsp;
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+</summary>
 
 <br/>
 
-> **Stack:** `React.js` `TailwindCSS` `Vercel`
+Responsive personal portfolio with modular React components and TailwindCSS, deployed on Vercel.
 
-Responsive personal portfolio with modular React components, deployed on Vercel.
-
-[![Live](https://img.shields.io/badge/🔗%20Live-22c55e?style=for-the-badge)](https://aanshi-portfolio-black.vercel.app/)
-[![GitHub](https://img.shields.io/badge/🐙%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/aanshigahlot1/aanshi-portfolio)
+[![Live](https://img.shields.io/badge/🔗%20Live-22c55e?style=for-the-badge&logoColor=white)](https://aanshi-portfolio-black.vercel.app/)
+[![GitHub](https://img.shields.io/badge/🐙%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aanshigahlot1/aanshi-portfolio)
 
 </details>
 
@@ -243,11 +345,15 @@ Responsive personal portfolio with modular React components, deployed on Vercel.
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=aanshigahlot1&show_icons=true&theme=tokyonight&hide_border=false&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&icon_color=c4b5fd&text_color=e2e8f0&ring_color=7c3aed&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aanshigahlot1&show_icons=true&theme=tokyonight&hide_border=false&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&icon_color=c4b5fd&text_color=e2e8f0&ring_color=7c3aed" height="180"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanshigahlot1&layout=compact&theme=tokyonight&hide_border=false&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aanshigahlot1&theme=tokyonight&hide_border=false&border=7c3aed&background=0d1117&ring=a78bfa&fire=c4b5fd&currStreakLabel=a78bfa&sideNums=c4b5fd&dates=94a3b8&stroke=7c3aed" width="70%"/>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aanshigahlot1&theme=tokyonight&hide_border=false&border=7c3aed&background=0d1117&ring=a78bfa&fire=c4b5fd&currStreakLabel=a78bfa&sideNums=c4b5fd&dates=94a3b8&stroke=7c3aed" width="68%"/>
+
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aanshigahlot1&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=a78bfa&hide_border=false&border_color=7c3aed&area=true&area_color=4c1d95&radius=8" width="95%"/>
 
